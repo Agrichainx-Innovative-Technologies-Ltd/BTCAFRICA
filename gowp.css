@@ -47,39 +47,11 @@
 }
 
 
-/* footer */
- #footer{
-     text-align: center;
-     padding: 2rem 0;
-     color:  grey ;
- }
-
-#footer button{
-    margin: 1rem;
-}
-
-#footer h3 a{
-    margin: 0.5rem;
-    padding: 0.5;
-}
-header{
-    list-style-type: none;
-    display: flex;
-    align-items:;
-}
 .lNav{
     list-style-type: none;
     display: flex;
     align-items: center;
 
-}
-#footer h5 a{
-    margin: 1rem;   
-}
-
-#footer a:hover{
-   color: ;
-    
 }
       
 .grid{
